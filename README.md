@@ -3,8 +3,8 @@ Giải thích đôi chút: <br/>
  IDE: IntellIJ.<br/>
  Version:<br/>
  ![image](https://github.com/user-attachments/assets/cd297c50-23af-487c-8436-8cddb31f5769)<br/>
- Trong bài thấy bảo lưu trữ bằng file json, csv nhưng mình thấy dùng SQLite cũng được nên dùng luôn
-Giao diện CLI ( thẩm mỹ mình kém lắm nên chịu khó nha :) ): <br/>
+ Trong bài thấy bảo lưu trữ bằng file json, csv nhưng mình thấy dùng SQLite cũng được nên dùng luôn<br/>
+Giao diện CLI ( thẩm mỹ mình kém lắm nên chịu khó nha 🫠 ): <br/>
 Chức năng chính đây: <br/>
 ![image](https://github.com/user-attachments/assets/6d75bc3d-ea53-412d-a755-cf2ca6095533)<br/>
 Chọn chức năng chính, vào trong sẽ được thao tác các yêu cầu trên đề bài<br/>
