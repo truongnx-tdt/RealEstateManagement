@@ -16,4 +16,4 @@ Thêm mới thành công nè, sửa xóa tương tự nha<br/>
 Xem danh sách:<br/>
 ![image](https://github.com/user-attachments/assets/21572cc3-9d2b-4ddf-9f22-6b2431df5b9a)<br/>
 
-mấy cái sau cũng như này thôi nên chắc ko cần demo tiếp đâu nhỉ.
+mấy cái sau cũng như này thôi nên chắc ko cần demo tiếp đâu nhỉ (do mình lười 😶‍🌫️😶‍🌫️).
