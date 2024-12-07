@@ -6,7 +6,7 @@ Giải thích đôi chút: <br/>
  Trong bài thấy bảo lưu trữ bằng file json, csv nhưng mình thấy dùng SQLite cũng được nên dùng luôn
 Giao diện CLI ( thẩm mỹ mình kém lắm nên chịu khó nha :) ): <br/>
 Chức năng chính đây: <br/>
-![image](https://github.com/user-attachments/assets/6d75bc3d-ea53-412d-a755-cf2ca6095533)
+![image](https://github.com/user-attachments/assets/6d75bc3d-ea53-412d-a755-cf2ca6095533)<br/>
 Chọn chức năng chính, vào trong sẽ được thao tác các yêu cầu trên đề bài<br/>
 ![image](https://github.com/user-attachments/assets/f60b3d4a-6596-41b4-aaac-28b6f04eb5ee)<br/>
 Không nhớ lệnh thì cứ gõ "help" nha <br/>
